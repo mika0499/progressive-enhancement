@@ -1,0 +1,45 @@
+
+header
+{
+background-color:yellow;
+}
+body 
+{
+font-size:20px;
+color: brown;
+border:1px solid #FF0000;
+padding:15px;
+width: 90%;
+margin:65px;
+text-align: center;
+font-size:160%;
+background: -webkit-radial-gradient(rgb(22, 237, 179), rgb(20,50, 53));
+}
+p
+{
+font-style:arial;
+line-height:30pt;
+}
+
+
+q
+{
+font-style:italic;
+border:3px solid;
+}
+.bien
+{
+color:green;
+}
+.mal
+{
+color:red;
+}
+.pp
+{
+font-weight:bold;
+}
+.main menu
+{
+display:inline;
+}
