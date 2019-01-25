@@ -1,0 +1,27 @@
+ul{
+display: flex;
+list-style-type: none;
+background-color: black;
+
+}
+li{
+	padding: 5px;
+
+}
+body{
+	background-color: blue;
+ 
+}
+header{
+
+}
+
+a{
+	color: white;
+	font-size: 15px;
+	margin:5px;
+}
+
+footer{
+	background-color: grey;
+}
