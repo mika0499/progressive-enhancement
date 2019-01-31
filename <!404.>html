@@ -1,22 +1,15 @@
-
+<!DOCTYPE> html
 <html>
 
-
-<header>
-</header>
-
-
-
-
-<body>
-</body>
+    <head>
+     <meta charset="utf-8" />
+     <link rel="stylesheet" href="404.css" />
+     <title>404 ERROR</title>
+    </head>
 
 
+    <body>
 
+    </body>
 
-
-
-
-<footer>
-
-</footer>
+</html>
